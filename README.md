@@ -4,7 +4,7 @@
 
 ## Preview CV
 
-![Preview CV](preview CV.png)
+(preview CV.png)
 
 ## Cara Menjalankan
 
